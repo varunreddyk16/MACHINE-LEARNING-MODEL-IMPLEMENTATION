@@ -64,9 +64,12 @@ accuracy_score: Evaluating the model’s performance.
 As i,m new to machine learning i have taken the help of online sources to complete this project and i used collab to build this.It feel productive to learn new things .
 
 # EMAIL_DATASET IN CSV FORMAT #
+[mail_data.csv](https://github.com/user-attachments/files/19188621/mail_data.csv)
 
 # OUTPUT #
 ![Image](https://github.com/user-attachments/assets/ce252d02-da2c-4eef-8382-d3d61321eee3)
+
+# COLLAB NOTEBOOK
 
 
 
